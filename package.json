@@ -1,7 +1,7 @@
 {
-  "name": "YaYa API",
+  "name": "Nest API 1",
   "version": "1.0.0",
-  "description": "API para la aplicacion YaYA",
+  "description": "API para BD",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
